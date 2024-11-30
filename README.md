@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/user-attachments/assets/54740986-f648-40ac-aebf-296bd13229f2)
-
 # 💫 About Me:
 I'm currently learning git
 
