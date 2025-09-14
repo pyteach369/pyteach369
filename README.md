@@ -9,7 +9,9 @@ I'm currently learning git
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,qt,regex,sqlite,selenium,django,git,github,docker,powershell,vscode,windows,kali,mint,linux&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-
+<a href="https://github.com/pyteach369">
+  <img src="https://github-stats-alpha.vercel.app/api?username=pyteach369&cc=3E1E68&tc=FFACAC&ic=E45A92&bc=5D2F77">
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pyteach369&theme=radical&no-frame=false&no-bg=false&margin-w=4)
