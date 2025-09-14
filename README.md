@@ -3,10 +3,10 @@ I'm currently learning git
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pyteach_original) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pyteach) 
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin,twitter,&perline=4)](https://skillicons.dev)
 
 # 💻 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,github,py,powershell,vscode,windows,qt,regex,sqlite,selenium,mint,linux,django,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,qt,regex,sqlite,selenium,django,git,github,docker,powershell,vscode,windows,kali,mint,linux&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <a href="https://github.com/pyteach369">
