@@ -3,7 +3,8 @@ I'm currently learning git
 
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin,twitter,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/py_teach)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pyteach369@gmail.com)
 
 # 💻 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,qt,regex,sqlite,selenium,django,git,github,docker,powershell,vscode,windows,kali,mint,linux&perline=4)](https://skillicons.dev)
