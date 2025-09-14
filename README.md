@@ -5,8 +5,9 @@ I'm currently learning git
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pyteach_original) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pyteach) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+# 💻 My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,github,py,powershell,vscode,windows,qt,regex,sqlite,selenium,mint,linux,django,docker&perline=4)](https://skillicons.dev)
+
 # 📊 GitHub Stats:
 <a href="https://github.com/pyteach369">
   <img src="https://github-stats-alpha.vercel.app/api?username=pyteach369&cc=3E1E68&tc=FFACAC&ic=E45A92&bc=5D2F77">
