@@ -8,9 +8,9 @@ I'm currently learning git
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pyteach369&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pyteach369&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyteach369&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/pyteach369">
+  <img src="https://github-stats-alpha.vercel.app/api?username=pyteach369&cc=3E1E68&tc=FFACAC&ic=E45A92&bc=5D2F77">
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pyteach369&theme=radical&no-frame=false&no-bg=false&margin-w=4)
